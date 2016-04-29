@@ -1,0 +1,19 @@
+primary: 3d454c
+
+secondary: fff
+
+tertiary: 91ba97
+
+quaternary: 91ba97
+
+header background: fff
+
+header primary: 333
+
+highlight: d4efd8
+
+danger: f76572
+
+success: 2ECC40
+
+love: fa6c8d
