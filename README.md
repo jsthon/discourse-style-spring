@@ -28,7 +28,10 @@
 ### Import CSS/HTML
 **Admin -> Customize -> CSS/HTML -> Import -> Select File -> Enabled**
 
+> **[Download Files!](https://github.com/jsthon/discourse-style-spring/archive/master.zip)**
+
 > Include:
+
 >> /import/footer-model.dcstyle.json
 
 >> /import/full-screen-pc.dcstyle.json
